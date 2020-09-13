@@ -6,6 +6,7 @@
 Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
+- ⚡ Fun fact: ... 
 -->
 
 - 🔭 I’m currently working on Android App Development with JAVA
@@ -13,6 +14,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about Android & WEB Development
 - 📫 How to reach me: [Facebook](https://www.facebook.com/sandeepkumaaar/) , [Instagram](https://www.instagram.com/sandeep_kumaaar/) , [Linkedin](https://www.linkedin.com/in/imersandeepkumar/)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: ... I Love Coding
+
 
 <img src="https://github-readme-stats.vercel.app/api?username=sandeepkumaaar&show_icons=true&icon_color=FFDE03&theme=vision-friendly-dark">
