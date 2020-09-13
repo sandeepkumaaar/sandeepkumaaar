@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Android App Development with JAVA
 - 🌱 I’m currently learning React Native
 - 💬 Ask me about Android & WEB Development
-- 📫 How to reach me: [facebook]{https://www.facebook.com/sandeepkumaaar/} [Instagram]{https://www.instagram.com/sandeep_kumaaar/}
+- 📫 How to reach me: [facebook](https://www.facebook.com/sandeepkumaaar/) [Instagram](https://www.instagram.com/sandeep_kumaaar/) [Linkedin](https://www.linkedin.com/in/imersandeepkumar/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: ... I Love Coding
