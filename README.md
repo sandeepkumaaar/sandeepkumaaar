@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on Android App Development with KOTLIN
-- 🌱 I’m currently learning KOTLIN
+- 🌱 I’m currently learning FLUTTER
 - 💬 Ask me about Android JAVA & KOTLIN
 - 📫 How to reach me: [Facebook](https://www.facebook.com/sandeepkumaaar/) , [Instagram](https://www.instagram.com/sandeep_kumaaar/) , [Linkedin](https://www.linkedin.com/in/imersandeepkumar/)
 - 😄 Pronouns: He/His
